@@ -1,5 +1,6 @@
 - bspfp
 - Interested
+  - Go
   - C++
   - Kotlin
   - Windows
